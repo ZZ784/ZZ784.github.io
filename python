@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>我的临床医学数据分析项目</title>
+</head>
+<body>
+    <h1>个人主页</h1>
+    <p>PIC 临床数据库数据分析项目</p>
+    <h2>项目内容</h2>
+    <ul>
+        <li>数据读取与预处理</li>
+        <li>统计分析</li>
+        <li>疾病预测模型</li>
+        <li>模型可视化评估</li>
+    </ul>
+    <h2>项目报告</h2>
+    <a href="report.pdf">下载PDF报告</a>
+</body>
+</html>
